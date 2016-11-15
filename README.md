@@ -1,4 +1,4 @@
-# Example of Meteor + Travis CI + Nightwatch
+# DEMO
 
 * [meteor.com](https://www.meteor.com/)
 * [travis-ci.org](https://travis-ci.org/)
