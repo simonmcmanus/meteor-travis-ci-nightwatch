@@ -10,7 +10,7 @@
     "nightwatch": "^0.5.36"
   },
   "scripts": {
-    "test": "nightwatch.js"
+    "test": "node ./nightwatch.js"
   },
   "repository": {
     "type": "git",
