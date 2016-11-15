@@ -1,10 +1,9 @@
 {
-  "name": "meteor-travis-ci-nightwatch",
-  "version": "0.0.0",
-  "description": "example of meteor and travis-ci and nightwatch",
+  "name": "travis-ci-nightwatch",
+  "version": "1.0.0",
+  "description": "example of travis-ci and nightwatch",
   "main": "index.js",
   "dependencies": {
-    "nightwatch": "^0.5.36"
   },
   "devDependencies": {
     "nightwatch": "^0.5.36"
